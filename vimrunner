@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-
-[ "x${1}x" = xx ] || exec /usr/bin/vim "$@"
-[ $ALLOW_EMPTY -eq 0 ] && exec true
-
