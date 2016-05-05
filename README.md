@@ -1,3 +1,3 @@
-# VIm ContAinR
+# VIm ContAineR
 
 An editor container image
